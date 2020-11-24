@@ -1,0 +1,84 @@
+.contact-form{
+    width: 700px;
+    height: 600px;
+    margin-top: 50px;
+}
+h4{
+    background-color: darkred;
+    color: black;
+    border-radius: 5px;
+    padding-left: 10px;
+    font-weight: bold;
+}
+p{
+    padding-left: 50px;
+}
+#name{
+    
+    border-radius: 5px;
+    width: 260px;
+    margin-left: 85px;
+}
+#select{
+    
+    border-radius: 5px;
+    width: 260px;
+    margin-left: 0px;
+   
+}
+form{
+    padding-left: 50px;
+}
+
+input[type="text"]{
+    margin-left: 80px;
+}
+#select1{
+   border-radius: 5px;
+    width: 260px;
+    margin-left: 20px;
+}
+#select2{
+    margin-left: 35px;
+    border-radius: 5px;
+    width: 260px;
+}
+#select3{
+    margin-left: 5px;
+    border-radius: 5px;
+    width: 260px;
+}
+#address{
+    border-radius: 5px;
+    width: 260px;
+    margin-left: 70px;
+}
+#number{
+    border-radius: 5px;
+    width: 260px;
+    margin-left: 20px;
+}
+#email{
+    border-radius: 5px;
+    width: 260px;
+    margin-left: 85px;
+}
+input[type"submit"]{
+    padding-top: 0px;
+}
+.amount{
+    font-weight: bold;
+    font-size: 20px;
+    padding-bottom: 0px;
+}
+#order{
+    border-radius: 5px;
+    width: 260px;
+    margin-left: 60px;
+}
+#distance{
+    
+    border-radius: 5px;
+    width: 260px;
+    margin-left: 35px;
+}

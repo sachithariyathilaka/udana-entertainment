@@ -1,0 +1,59 @@
+.logo{
+    height: 50px;
+    width: 80%;
+}
+#registration{
+    padding-right: 800px;
+}
+#slide{
+    border-color: #9999FF;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    border-width: 4px;
+}
+#develop{
+    float: right;
+}
+#bottom{
+    height: 75px;
+    
+}
+.top{
+    color: white;
+}
+#welcome{
+    padding-left: 100px;
+}
+.package{
+    margin-left: 5%;
+    margin-top: 2%;
+    margin-right: 5%;
+    font-weight: bold;
+    
+}
+#slide1{
+    border-color: darkred;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    border-width: 2px;
+}
+.container{
+    margin-top: 5%;
+    margin-left: 13%;
+}
+
+.card:hover{
+    -webkit-box-shadow: -1px 9px 40px -12px rgba(0,0,0,0.75);
+    -moz-box-shadow: -1px 9px 40px -12px rgba(0,0,0,0.75);
+    box-shadow: -1px 9px 40px -12px rgba(0, 0, 0, 0.75);
+}
+.develop{
+    padding-left: 500px;
+    color: black;
+}
+#package{
+    height: 150px;
+}
+h5{
+    font-weight: bold;
+}

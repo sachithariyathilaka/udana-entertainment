@@ -1,0 +1,22 @@
+body{
+    font-family: sans-serif;
+}
+h1{
+    text-align: center;
+    color: forestgreen;
+    margin: 30px 50px 50px;
+    padding-top: 2%;
+}
+.image{
+    height: 200px;
+    width: 250px;
+    margin-left: 5%;
+    margin-bottom: 10%;
+    border-radius: 5px;
+}
+.col-md-3{
+    padding: 10px;
+    margin-top: 15px;
+    
+    
+}

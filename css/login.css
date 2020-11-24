@@ -1,0 +1,13 @@
+.form-container{
+    border: 0px solid white;
+    padding: 50px 60px;
+    margin-top: 30%;
+    box-shadow: 10px 9px 21px 0px rgba(0,0,0,0.75);
+}
+h1{
+    padding-left: 40px;
+    color: black;
+}
+#log{
+    margin-bottom: 37px;
+}
