@@ -1,5 +1,5 @@
 # Udana Entertainment
-Website for online ordering bounces
+Website for online ordering bounces.
 
 * ### Technologies
   * HTML 5
